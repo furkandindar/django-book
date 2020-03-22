@@ -406,7 +406,7 @@ These files are as follows:
       a feel for what it can do. You should never have to edit this file; it's
       created in this directory purely for convenience.
 
-    * The inner ``mysite/`` directory is teh actual Python package for your
+    * The inner ``mysite/`` directory is the actual Python package for your
       project. It's name is the Python package name you'll need to import
       anything inside it (e.g import mysite.settings).
 
